@@ -1,0 +1,12 @@
+{
+  "simulations": [
+    {
+      "numUsers": 100,
+      "numSRs": 10,
+      "numPosts": 1000,
+      "numComments": 5,
+      "numVotes": 10,
+      "numMessages": 50
+    }
+  ]
+}

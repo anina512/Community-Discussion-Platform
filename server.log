@@ -1,0 +1,70 @@
+2024/12/13 23:29:20 client.go:49: User created: map[ID:1 Karma:1 Username:User1]
+2024/12/13 23:29:20 client.go:70: Subreddit created: map[ID:2 Members:map[] Name:Subreddit1 Posts:<nil>]
+2024/12/13 23:29:21 client.go:91: Post submitted: map[Author:map[ID:1 Karma:1 Username:User1] Comments:<nil> Content:This ID:1 Title:Post1 Votes:0]
+2024/12/13 23:29:21 client.go:49: User created: map[ID:2 Karma:0 Username:User2]
+2024/12/13 23:29:21 client.go:213: Joined subreddit: Subreddit1
+2024/12/13 23:29:22 client.go:91: Post submitted: map[Author:map[ID:2 Karma:0 Username:User2] Comments:<nil> Content:This ID:2 Title:Post2 Votes:0]
+2024/12/13 23:29:22 client.go:49: User created: map[ID:3 Karma:0 Username:User3]
+2024/12/13 23:29:23 client.go:213: Joined subreddit: Subreddit1
+2024/12/13 23:29:23 client.go:116: Comment created: map[Author:map[ID:3 Karma:0 Username:User3] Content:Nice ID:2 Replies:<nil> Votes:0]
+2024/12/13 23:29:23 client.go:49: User created: map[ID:4 Karma:0 Username:User4]
+2024/12/13 23:29:24 client.go:138: Vote successful!
+2024/12/13 23:29:24 client.go:49: User created: map[ID:5 Karma:0 Username:User5]
+2024/12/13 23:29:24 client.go:213: Joined subreddit: Subreddit1
+2024/12/13 23:29:25 client.go:138: Vote successful!
+2024/12/13 23:29:25 client.go:49: User created: map[ID:6 Karma:0 Username:User6]
+2024/12/13 23:29:26 client.go:91: Post submitted: map[Author:map[ID:6 Karma:0 Username:User6] Comments:<nil> Content:This ID:3 Title:Post3 Votes:0]
+2024/12/13 23:29:26 client.go:116: Comment created: map[Author:map[ID:6 Karma:0 Username:User6] Content:Great ID:1 Replies:<nil> Votes:0]
+2024/12/13 23:29:26 client.go:49: User created: map[ID:7 Karma:0 Username:User7]
+2024/12/13 23:29:27 client.go:213: Joined subreddit: Subreddit1
+2024/12/13 23:29:27 client.go:138: Vote successful!
+2024/12/13 23:29:27 client.go:91: Post submitted: map[Author:map[ID:7 Karma:0 Username:User7] Comments:<nil> Content:This ID:4 Title:Post4 Votes:0]
+2024/12/13 23:29:28 client.go:49: User created: map[ID:8 Karma:0 Username:User8]
+2024/12/13 23:29:28 client.go:213: Joined subreddit: Subreddit1
+2024/12/13 23:29:28 client.go:91: Post submitted: map[Author:map[ID:8 Karma:0 Username:User8] Comments:<nil> Content:This ID:5 Title:Post5 Votes:0]
+2024/12/13 23:29:29 client.go:116: Comment created: map[Author:map[ID:8 Karma:0 Username:User8] Content:Awesome ID:3 Replies:<nil> Votes:0]
+2024/12/13 23:29:29 client.go:49: User created: map[ID:9 Karma:0 Username:User9]
+2024/12/13 23:29:29 client.go:116: Comment created: map[Author:map[ID:9 Karma:0 Username:User9] Content:Very ID:2 Replies:<nil> Votes:0]
+2024/12/13 23:29:30 client.go:116: Comment created: map[Author:map[ID:9 Karma:0 Username:User9] Content:I ID:3 Replies:<nil> Votes:0]
+2024/12/13 23:29:30 client.go:116: Comment created: map[Author:map[ID:9 Karma:0 Username:User9] Content:Great ID:4 Replies:<nil> Votes:0]
+2024/12/13 23:29:30 client.go:49: User created: map[ID:10 Karma:0 Username:User10]
+2024/12/13 23:29:31 client.go:213: Joined subreddit: Subreddit1
+2024/12/13 23:29:31 client.go:138: Vote successful!
+2024/12/13 23:29:32 client.go:251: Feed: [map[Author:map[ID:1 Karma:4 Username:User1] Comments:[map[Author:map[ID:1 Karma:4 Username:User1] Content:Great post, User1! ID:1 Replies:<nil> Votes:0] map[Author:map[ID:3 Karma:0 Username:User3] Content:Nice ID:2 Replies:<nil> Votes:0] map[Author:map[ID:8 Karma:0 Username:User8] Content:Awesome ID:3 Replies:<nil> Votes:0]] Content:This is User1s first post. ID:1 Title:Post1 Votes:4] map[Author:map[ID:2 Karma:1 Username:User2] Comments:[map[Author:map[ID:6 Karma:0 Username:User6] Content:Great ID:1 Replies:<nil> Votes:0] map[Author:map[ID:9 Karma:0 Username:User9] Content:Very ID:2 Replies:<nil> Votes:0] map[Author:map[ID:9 Karma:0 Username:User9] Content:I ID:3 Replies:<nil> Votes:0] map[Author:map[ID:9 Karma:0 Username:User9] Content:Great ID:4 Replies:<nil> Votes:0]] Content:This ID:2 Title:Post2 Votes:1] map[Author:map[ID:6 Karma:0 Username:User6] Comments:<nil> Content:This ID:3 Title:Post3 Votes:0] map[Author:map[ID:7 Karma:0 Username:User7] Comments:<nil> Content:This ID:4 Title:Post4 Votes:0] map[Author:map[ID:8 Karma:0 Username:User8] Comments:<nil> Content:This ID:5 Title:Post5 Votes:0]]
+2024/12/13 23:29:32 client.go:138: Vote successful!
+2024/12/13 23:29:32 client.go:138: Vote successful!
+2024/12/14 00:00:05 client.go:46: User created: map[ID:1 Karma:0 Username:User1]
+2024/12/14 00:00:06 client.go:67: Subreddit created: map[ID:1 Members:map[] Name:Subreddit1 Posts:<nil>]
+2024/12/14 00:00:06 client.go:205: Error: Received status code 404
+2024/12/14 00:00:06 client.go:46: User created: map[ID:2 Karma:0 Username:User2]
+2024/12/14 00:00:06 client.go:88: Post submitted: map[Author:map[ID:1 Karma:0 Username:User1] Comments:<nil> Content:This ID:1 Title:Post1 Votes:0]
+2024/12/14 00:00:07 client.go:205: Error: Received status code 404
+2024/12/14 00:00:07 client.go:106: Error: Received status code 404
+2024/12/14 00:00:07 client.go:46: User created: map[ID:3 Karma:0 Username:User4]
+2024/12/14 00:00:07 client.go:134: Vote successful!
+2024/12/14 00:00:07 client.go:88: Post submitted: map[Author:map[ID:2 Karma:0 Username:User2] Comments:<nil> Content:This ID:2 Title:Post2 Votes:0]
+2024/12/14 00:00:07 client.go:46: User created: map[ID:4 Karma:0 Username:User3]
+2024/12/14 00:00:07 client.go:205: Error: Received status code 404
+2024/12/14 00:00:07 client.go:134: Vote successful!
+2024/12/14 00:00:08 client.go:46: User created: map[ID:5 Karma:0 Username:User5]
+2024/12/14 00:00:08 client.go:46: User created: map[ID:6 Karma:0 Username:User6]
+2024/12/14 00:00:08 client.go:88: Post submitted: map[Author:map[ID:6 Karma:0 Username:User6] Comments:<nil> Content:This ID:3 Title:Post3 Votes:0]
+2024/12/14 00:00:08 client.go:112: Comment created: map[Author:map[ID:6 Karma:0 Username:User6] Content:Great ID:1 Replies:<nil> Votes:0]
+2024/12/14 00:00:09 client.go:46: User created: map[ID:7 Karma:0 Username:User7]
+2024/12/14 00:00:09 client.go:209: Joined subreddit: Subreddit1
+2024/12/14 00:00:09 client.go:88: Post submitted: map[Author:map[ID:7 Karma:0 Username:User7] Comments:<nil> Content:This ID:4 Title:Post4 Votes:0]
+2024/12/14 00:00:10 client.go:134: Vote successful!
+2024/12/14 00:00:11 client.go:46: User created: map[ID:8 Karma:0 Username:User8]
+2024/12/14 00:00:11 client.go:209: Joined subreddit: Subreddit1
+2024/12/14 00:00:11 client.go:88: Post submitted: map[Author:map[ID:8 Karma:0 Username:User8] Comments:<nil> Content:This ID:5 Title:Post5 Votes:0]
+2024/12/14 00:00:11 client.go:112: Comment created: map[Author:map[ID:8 Karma:0 Username:User8] Content:Awesome ID:1 Replies:<nil> Votes:0]
+2024/12/14 00:00:11 client.go:46: User created: map[ID:9 Karma:0 Username:User9]
+2024/12/14 00:00:12 client.go:112: Comment created: map[Author:map[ID:9 Karma:0 Username:User9] Content:Very ID:2 Replies:<nil> Votes:0]
+2024/12/14 00:00:12 client.go:112: Comment created: map[Author:map[ID:9 Karma:0 Username:User9] Content:I ID:3 Replies:<nil> Votes:0]
+2024/12/14 00:00:12 client.go:112: Comment created: map[Author:map[ID:9 Karma:0 Username:User9] Content:Great ID:4 Replies:<nil> Votes:0]
+2024/12/14 00:00:13 client.go:46: User created: map[ID:10 Karma:0 Username:User10]
+2024/12/14 00:00:13 client.go:209: Joined subreddit: Subreddit1
+2024/12/14 00:00:14 client.go:134: Vote successful!
+2024/12/14 00:00:14 client.go:247: Feed: [map[Author:map[ID:1 Karma:3 Username:User1] Comments:[map[Author:map[ID:8 Karma:0 Username:User8] Content:Awesome ID:1 Replies:<nil> Votes:0]] Content:This ID:1 Title:Post1 Votes:3] map[Author:map[ID:2 Karma:1 Username:User2] Comments:[map[Author:map[ID:6 Karma:0 Username:User6] Content:Great ID:1 Replies:<nil> Votes:0] map[Author:map[ID:9 Karma:0 Username:User9] Content:Very ID:2 Replies:<nil> Votes:0] map[Author:map[ID:9 Karma:0 Username:User9] Content:I ID:3 Replies:<nil> Votes:0] map[Author:map[ID:9 Karma:0 Username:User9] Content:Great ID:4 Replies:<nil> Votes:0]] Content:This ID:2 Title:Post2 Votes:1] map[Author:map[ID:6 Karma:0 Username:User6] Comments:<nil> Content:This ID:3 Title:Post3 Votes:0] map[Author:map[ID:7 Karma:0 Username:User7] Comments:<nil> Content:This ID:4 Title:Post4 Votes:0] map[Author:map[ID:8 Karma:0 Username:User8] Comments:<nil> Content:This ID:5 Title:Post5 Votes:0]]
+2024/12/14 00:00:14 client.go:134: Vote successful!
+2024/12/14 00:00:14 client.go:134: Vote successful!
